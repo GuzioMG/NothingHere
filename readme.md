@@ -6,4 +6,6 @@ This project is ment to be used as a GitPod workspace creator. If you want to bu
 Since I put literally no work into this, you can go ahead and do anything you want. No license, boys!
 
 ## Image
-I chose default + VNC image. Default got described as "Ready to Code. Supports Java, Go, Python, Ruby, JavaScript, TypeScript, etc.", so it's the best place to start. VNC support added, as some people may find it useful for their project.
+I chose default + VNC image. Default is described as "Ready to Code. Supports Java, Go, Python, Ruby, JavaScript, TypeScript, etc.", 
+so it's the best place to start. VNC support added, as some people may find it useful for their project. 
+I also installed GCPtools, as I needed it. If you'll ever need a tool, just install it and make a PR!
